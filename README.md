@@ -1,0 +1,1 @@
+This is the source code of Ecard. Due to privacy consideration, the key used to interaction with contracts we own are removed. Alternatively we provides demo recording of the runnning the project under this folder. Please contact us if further verification is needed.
